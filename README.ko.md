@@ -1,4 +1,5 @@
 # agent-cards
+<p align="center"><img src="assets/banner.png" alt="agent-cards" width="100%"></p>
 
 여러 AI 에이전트가 Vikunja에서 작업 담당자 지정, 마감일, 중간 체크포인트, 완료 근거를 겹치지 않게 관리하도록 돕는 파이썬 표준 라이브러리 기반 명령줄 도구입니다.
 

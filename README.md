@@ -1,4 +1,5 @@
 # agent-cards
+<p align="center"><img src="assets/banner.png" alt="agent-cards" width="100%"></p>
 
 A small, standard-library Python CLI that gives AI agents exclusive cooperative task claims, deadlines, checkpoints, and evidence-backed completion on Vikunja.
 
